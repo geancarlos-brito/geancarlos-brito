@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Fala aí! Eu sou o Gean Carlos
 
-<!--
-**geancarlos-brito/geancarlos-brito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em evolução — focado em **Python**, **Django** e **Vue.js**.  
+🚀 Transformo ideias em projetos reais, como sistemas web completos e ferramentas úteis.  
+📚 Sempre aprendendo e buscando evoluir como dev.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Backend:** Python, Django, Vue.js
+- **Frontend:** HTML, CSS, JavaScript  
+- **Banco de Dados:** SQLite, MySQL  
+- **Outros:** Git, GitHub, VSCode
+
+---
+
+### 📌 Projetos em Destaque
+🔹 **UniWay** — Sistema de gerenciamento de tranporte universitario com Vue.js
+🔹 **GymFlow** — Gerenciador de academia com Django
+
+> Todos os projetos têm código aberto aqui no GitHub 👇
+
+---
+
+### 📈 O que estou estudando no momento
+- Python 
+- Django
+- JavaScript  
+- Interfaces mais profissionais com HTML/CSS  
+
+---
+
+### 📫 Como me encontrar
+**LinkedIn:** **https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/**  
+**Email:** **grochabrito@gmail.com**
