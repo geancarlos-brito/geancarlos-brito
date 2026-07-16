@@ -1,35 +1,78 @@
-# 👋 Fala aí! Eu sou o Gean Carlos
+# 👋 Olá! Eu sou o Gean Carlos
 
-💻 Desenvolvedor em evolução — focado em **Python**, **Django** e **Vue.js**.  
-🚀 Transformo ideias em projetos reais, como sistemas web completos e ferramentas úteis.  
-📚 Sempre aprendendo e buscando evoluir como dev.
+💻 Desenvolvedor Full Stack em formação, com foco no desenvolvimento de aplicações web utilizando **Python**, **FastAPI**, **Django** e **React**.
 
----
+🚀 Gosto de transformar ideias em soluções práticas, desenvolvendo sistemas completos, desde a interface até o backend, sempre buscando código limpo, boas práticas e uma ótima experiência para o usuário.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Backend:** Python, Django, Vue.js
-- **Frontend:** HTML, CSS, JavaScript  
-- **Banco de Dados:** SQLite, MySQL  
-- **Outros:** Git, GitHub, VSCode
+🌱 Atualmente estou aprofundando meus conhecimentos em arquitetura de software, APIs REST e desenvolvimento Full Stack.
 
 ---
 
-### 📌 Projetos em Destaque
-🔹 **UniWay** — Sistema de gerenciamento de tranporte universitario com Vue.js
-🔹 **GymFlow** — Gerenciador de academia com Django
+## 🚀 Tecnologias
 
-> Todos os projetos têm código aberto aqui no GitHub 👇
-
----
-
-### 📈 O que estou estudando no momento
-- Python 
+### 💻 Backend
+- Python
+- FastAPI
 - Django
-- JavaScript  
-- Interfaces mais profissionais com HTML/CSS  
+
+### 🎨 Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### 🗄️ Banco de Dados
+- MySQL
+- SQLite
+
+### ⚙️ Ferramentas
+- Git
+- GitHub
+- VS Code
 
 ---
 
-### 📫 Como me encontrar
-**LinkedIn:** **https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/**  
-**Email:** **grochabrito@gmail.com**
+## 📌 Projetos
+
+### 🚍 UniWay
+Sistema de gerenciamento de transporte universitário, desenvolvido para facilitar o controle de rotas, usuários e reservas.
+
+**Tecnologias:** Vue.js, Python, MySQL
+
+---
+
+### 🏋️ GymFlow
+Sistema para gerenciamento de academias, com controle de alunos, planos e treinos.
+
+**Tecnologias:** Django, Python, SQLite
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
+- FastAPI
+- Django
+- React
+- APIs REST
+- Clean Code
+
+---
+
+## 🎯 Objetivos
+
+- Evoluir como Desenvolvedor Full Stack.
+- Construir aplicações escaláveis e bem estruturadas.
+- Contribuir para projetos Open Source.
+- Ingressar no mercado de desenvolvimento de software.
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/
+
+📧 Email  
+grochabrito@gmail.com
