@@ -159,20 +159,20 @@ Sistema de gerenciamento de **transporte universitário**, desenvolvido para fac
 
 <td width="50%" valign="top">
 
-## 🏋️ GymFlow
+✅ Task.fy
 
-Sistema para **gerenciamento de academias**, com controle de alunos, planos e treinos.
+Sistema web de gerenciamento de tarefas, desenvolvido para organizar atividades e facilitar o acompanhamento da produtividade.
 
-### Stack
+Stack
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+
+
+
 
 </td>
 
-</tr>
-</table>
+</tr> </table>
 
 </div>
 
