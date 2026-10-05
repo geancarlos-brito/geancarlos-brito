@@ -237,26 +237,6 @@ Meu objetivo é entender cada vez melhor **todo o ciclo de desenvolvimento de so
 
 ---
 
-# 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=geancarlos-brito&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
 # 🎯 Objetivos
 
 <div align="center">
