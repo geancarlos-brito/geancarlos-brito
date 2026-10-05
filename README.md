@@ -107,7 +107,7 @@ class GeanCarlos:
 
 ---
 
-# 📚 Estudos para o estágio
+# 📚 Foco Atual
 
 Atualmente estou estudando e aprofundando conhecimentos em tecnologias importantes para desenvolvimento web profissional e trabalho em equipe.
 
