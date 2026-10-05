@@ -159,28 +159,6 @@ Sistema de gerenciamento de **transporte universitário**, desenvolvido para fac
 
 <td width="50%" valign="top">
 
-# 💻 Projetos em Destaque
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚍 UniWay
-
-Sistema de gerenciamento de **transporte universitário**, desenvolvido para facilitar o controle de rotas, usuários e reservas.
-
-### Stack
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
 
 ## ✅ Task.fy
 
