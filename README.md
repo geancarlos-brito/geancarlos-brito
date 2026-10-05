@@ -159,20 +159,19 @@ Sistema de gerenciamento de **transporte universitário**, desenvolvido para fac
 
 <td width="50%" valign="top">
 
-✅ Task.fy
+<td width="50%" valign="top">
 
-Sistema web de gerenciamento de tarefas, desenvolvido para organizar atividades e facilitar o acompanhamento da produtividade.
+## ✅ Task.fy
 
-Stack
+Sistema web de **gerenciamento de tarefas**, desenvolvido para organizar atividades e facilitar o acompanhamento da produtividade.
 
+### Stack
 
-
-
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-
-</tr> </table>
 
 </div>
 
