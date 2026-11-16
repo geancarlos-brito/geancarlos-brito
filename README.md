@@ -46,8 +46,8 @@
 ## <img src="assets/sec-atividade.svg" width="100%" alt="03 — Atividade no GitHub"/>
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/stats/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/stats/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas"/>
+  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas"/>
 </p>
 
 <p align="center">
