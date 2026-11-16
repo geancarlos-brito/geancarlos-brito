@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Gean Carlos — Desenvolvedor Full Stack em formação</title>
+<desc id="desc">Banner de apresentação com foco em desenvolvimento Full Stack, Python, PHP, JavaScript, APIs, PostgreSQL e Docker.</desc>
+<style>
+.s{font-family:Inter,-apple-system,'Segoe UI',Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+@keyframes enter{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}@keyframes pulse{50%{opacity:.35}}
+.e{animation:enter .7s ease-out both}.b{animation:blink 1s steps(1) infinite}.p{animation:pulse 2s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1199" height="359" x=".5" y=".5" rx="18" fill="#0b1020" stroke="#26334f"/>
+<path d="M0 280C210 210 300 370 560 270S960 170 1200 245V360H0Z" fill="#111b36"/>
+<circle cx="1040" cy="40" r="180" fill="#2563eb" opacity=".08"/><circle cx="1090" cy="50" r="115" fill="#8b5cf6" opacity=".08"/>
+<rect x="48" y="48" width="46" height="4" rx="2" fill="#38bdf8"/>
+<text class="m e" x="48" y="88" font-size="15" letter-spacing="3" fill="#94a3b8" style="animation-delay:.08s">GEANCARLOS-BRITO  /  DEVELOPER</text>
+<text class="s e" x="45" y="172" font-size="76" font-weight="800" fill="#f8fafc" style="animation-delay:.18s">Gean Carlos<tspan fill="#38bdf8">.</tspan></text>
+<text class="s e" x="49" y="220" font-size="25" font-weight="600" fill="#e2e8f0" style="animation-delay:.3s">Desenvolvedor Full Stack em formação</text>
+<text class="s e" x="49" y="258" font-size="19" fill="#94a3b8" style="animation-delay:.4s">Transformando ideias em software, uma linha de código por vez.</text>
+<g class="e" style="animation-delay:.52s"><circle class="p" cx="57" cy="310" r="6" fill="#38bdf8"/><text class="s" x="75" y="316" font-size="17" fill="#cbd5e1">Aprender</text><text class="m" x="158" y="316" font-size="15" fill="#64748b">/</text><text class="s" x="177" y="316" font-size="17" fill="#cbd5e1">Construir</text><text class="m" x="274" y="316" font-size="15" fill="#64748b">/</text><text class="s" x="294" y="316" font-size="17" fill="#cbd5e1">Evoluir</text></g>
+<g class="e" style="animation-delay:.48s">
+<rect x="760" y="55" width="390" height="252" rx="13" fill="#0f172a" stroke="#334155"/>
+<circle cx="784" cy="79" r="5" fill="#fb7185"/><circle cx="802" cy="79" r="5" fill="#fbbf24"/><circle cx="820" cy="79" r="5" fill="#34d399"/>
+<line x1="760" y1="99" x2="1150" y2="99" stroke="#334155"/>
+<text class="m" x="788" y="137" font-size="17" fill="#64748b">// meu foco</text>
+<text class="m" x="788" y="170" font-size="17"><tspan fill="#c4b5fd">const</tspan><tspan fill="#e2e8f0"> developer = {</tspan></text>
+<text class="m" x="808" y="202" font-size="16"><tspan fill="#7dd3fc">"backend"</tspan><tspan fill="#cbd5e1">: </tspan><tspan fill="#86efac">["Python", "PHP"]</tspan><tspan fill="#cbd5e1">,</tspan></text>
+<text class="m" x="808" y="230" font-size="16"><tspan fill="#7dd3fc">"frontend"</tspan><tspan fill="#cbd5e1">: </tspan><tspan fill="#86efac">["Vue", "React"]</tspan><tspan fill="#cbd5e1">,</tspan></text>
+<text class="m" x="808" y="258" font-size="16"><tspan fill="#7dd3fc">"database"</tspan><tspan fill="#cbd5e1">: </tspan><tspan fill="#86efac">"PostgreSQL"</tspan></text>
+<text class="m" x="788" y="286" font-size="17" fill="#e2e8f0">}<tspan class="b" fill="#38bdf8">▋</tspan></text>
+</g></svg>
