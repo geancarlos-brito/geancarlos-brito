@@ -1,333 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=200&section=header&text=Gean%20Carlos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20in%20Training&descAlignY=58&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=220&section=header&text=Gean%20Carlos&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BUILDING%20WITH%20PURPOSE&descSize=14&descAlignY=58&descColor=CBD5E1&animation=twinkling" alt="Banner Gean Carlos" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+JavaScript;FastAPI+%7C+Django+%7C+Laravel;Docker+%7C+PostgreSQL+%7C+Git;Transformando+ideias+em+software+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Transformando+ideias+em+software.;Backend%2C+Frontend+e+boas+pr%C3%A1ticas.;Aprender.+Construir.+Evoluir." alt="Animação de apresentação" />
+</a>
 
+<p>
+  <a href="https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:grochabrito@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/geancarlos-brito?tab=repositories"><img src="https://img.shields.io/badge/Projetos-Explorar-64748B?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=geancarlos-brito&style=flat-square&color=2563EB&label=VISITAS+AO+PERFIL" alt="Visualizações do perfil" />
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Olá! Sou **Gean Carlos**, desenvolvedor Full Stack em formação, interessado em construir aplicações úteis, bem estruturadas e com uma boa experiência para quem usa.
+
+Gosto de entender o desenvolvimento por inteiro: da modelagem de dados e criação de APIs à construção de interfaces, testes, versionamento e execução da aplicação.
+
+- 🔭 Desenvolvendo projetos web e evoluindo minha experiência prática.
+- 🌱 Aprofundando conhecimentos em **Python, PHP, Laravel, Vue.js, PostgreSQL e Docker**.
+- 🧠 Estudando arquitetura de software, APIs REST, modelagem de dados e qualidade de código.
+- 🤝 Valorizo colaboração, aprendizado contínuo e soluções simples de manter.
+
+---
+
+## 🧰 Stack & ferramentas
+
+<div align="center">
+
+**Backend**
 <br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel" alt="Python, FastAPI, Django, PHP e Laravel" />
 
-<a href="https://github.com/geancarlos-brito">
-<img src="https://img.shields.io/github/followers/geancarlos-brito?label=Seguidores&style=for-the-badge&logo=github&color=181717"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/geancarlos-brito?tab=repositories">
-<img src="https://img.shields.io/badge/Projetos-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=javascript,vue,react,html,css,tailwind" alt="JavaScript, Vue, React, HTML, CSS e Tailwind" />
 
-<a href="https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<br/><br/>
 
-</div>
-
----
-
-# 👋 Olá! Eu sou o Gean Carlos
-
-💻 **Desenvolvedor Full Stack em formação**, apaixonado por tecnologia, programação e desenvolvimento de software.
-
-Gosto de transformar ideias em **soluções práticas**, desenvolvendo aplicações completas desde a interface até o backend, APIs e banco de dados.
-
-Atualmente estou aprofundando meus conhecimentos em **Arquitetura de Software, APIs REST, Docker, PHP, Laravel, PostgreSQL, Git e GitHub**, enquanto continuo evoluindo minha experiência com Python, FastAPI, Django e React.
-
-```python
-class GeanCarlos:
-
-    role = "Full Stack Developer"
-
-    backend = [
-        "Python",
-        "FastAPI",
-        "Django",
-        "PHP",
-        "Laravel"
-    ]
-
-    frontend = [
-        "React",
-        "Vue.js",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Tailwind CSS"
-    ]
-
-    databases = [
-        "MySQL",
-        "PostgreSQL",
-        "SQLite"
-    ]
-
-    tools = [
-        "Docker",
-        "Git",
-        "GitHub",
-        "VS Code"
-    ]
-
-    currently_learning = [
-        "Software Architecture",
-        "REST APIs",
-        "Clean Code",
-        "Docker",
-        "Laravel",
-        "PostgreSQL"
-    ]
-
-    goal = "Transformar ideias em software 🚀"
-```
-
----
-
-# 🚀 Tecnologias & Ferramentas
-
-### 🐍 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,php,laravel"/>
-</p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,tailwind"/>
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
-</p>
-
-### 🐳 DevOps & Versionamento
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
-</p>
-
----
-
-# 📚 Foco Atual
-
-Atualmente estou estudando e aprofundando conhecimentos em tecnologias importantes para desenvolvimento web profissional e trabalho em equipe.
-
-<div align="center">
-
-|   🛠️ Tecnologia  | 🎯 Foco                                 |
-| :---------------: | :-------------------------------------- |
-|     🐘 **PHP**    | Desenvolvimento Backend                 |
-|   ⚡ **Laravel**   | APIs e aplicações Web                   |
-|   🐳 **Docker**   | Containerização e ambientes             |
-| 🐘 **PostgreSQL** | Banco de dados e SQL                    |
-|     🌿 **Git**    | Versionamento de código                 |
-|   🐙 **GitHub**   | Colaboração e gerenciamento de projetos |
+**Banco de dados & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git,github,linux,vscode" alt="PostgreSQL, MySQL, SQLite, Docker, Git, GitHub, Linux e VS Code" />
 
 </div>
 
-### 🧠 Também estou estudando
-
-* 🏗️ Arquitetura de Software
-* 🔌 APIs REST
-* 🧹 Clean Code
-* 🗄️ Modelagem de Banco de Dados
-* 🔐 Boas práticas de desenvolvimento
-* 🤝 Fluxos de trabalho com Git/GitHub
-* 📦 Containerização com Docker
-
 ---
 
-# 💻 Projetos em Destaque
-
-<div align="center">
+## 🚀 Projetos em destaque
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚍 UniWay
-
-Sistema de gerenciamento de **transporte universitário**, desenvolvido para facilitar o controle de rotas, usuários e reservas.
-
-### Stack
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vue.js\&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-</td>
-
-<td width="50%" valign="top">
-
-
-## ✅ Task.fy
-
-Sistema web de **gerenciamento de tarefas**, desenvolvido para organizar atividades e facilitar o acompanhamento da produtividade.
-
-### Stack
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Sistema de Gestão Médica</h3>
+      <p>Projeto acadêmico em PHP com foco em Programação Orientada a Objetos, organização em camadas e regras de domínio.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+        <img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
+      </p>
+      <a href="https://github.com/geancarlos-brito/projeto-clinica">Ver repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Machine Learning — AV1</h3>
+      <p>Trabalho prático com análise exploratória, pré-processamento, modelos supervisionados e clusterização com Python.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+      </p>
+      <a href="https://github.com/geancarlos-brito/AV1-Machine-Learning">Ver repositório →</a>
+    </td>
+  </tr>
 </table>
 
+### 🛠️ Em desenvolvimento
+
+- **UniWay** — plataforma para gerenciamento de transporte universitário. Evoluindo a arquitetura e a infraestrutura com PostgreSQL e Docker.
+- **SkillSwap** — protótipo de uma plataforma de troca de conhecimentos e habilidades.
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=geancarlos-brito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geancarlos-brito&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Linguagens mais utilizadas" />
 </div>
 
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=geancarlos-brito&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
 
 ---
 
-# 🏗️ O que estou buscando desenvolver
+## 🎯 No que estou focado
 
 ```text
-                    💡 IDEIA
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   PLANEJAMENTO  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   DESENVOLVIMENTO│
-              └────────┬────────┘
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-        🎨 FRONTEND          ⚙️ BACKEND
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-                 🗄️ DATABASE
-                       │
-                       ▼
-                  🐳 DOCKER
-                       │
-                       ▼
-                 🚀 DEPLOYMENT
-```
-
-Meu objetivo é entender cada vez melhor **todo o ciclo de desenvolvimento de software**, indo da ideia até uma aplicação funcional, organizada e preparada para crescer.
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geancarlos-brito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geancarlos-brito&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=geancarlos-brito&theme=tokyonight&hide_border=true&mode=weekly"/>
-
-</div>
-
----
-
-# 🎯 Objetivos
-
-<div align="center">
-
-```text
-🚀 Evoluir como Desenvolvedor Full Stack
-
-🏗️ Construir aplicações escaláveis e bem estruturadas
-
-🧠 Aprofundar conhecimentos em Engenharia de Software
-
-💼 Ingressar e crescer profissionalmente no mercado
-
-🤝 Aprender cada vez mais sobre trabalho em equipe
-
-🌎 Contribuir com projetos Open Source
-
-📚 Nunca parar de aprender
-```
-
-</div>
-
----
-
-# 💡 Um pouco mais sobre mim
-
-```javascript
-const gean = {
-    name: "Gean Carlos",
-    role: "Full Stack Developer in Training",
-
-    interests: [
-        "Software Development",
-        "Backend",
-        "APIs",
-        "Software Architecture",
-        "Databases"
-    ],
-
-    technologies: [
-        "Python",
-        "PHP",
-        "JavaScript",
-        "FastAPI",
-        "Django",
-        "Laravel",
-        "React",
-        "Docker",
-        "PostgreSQL"
-    ],
-
-    currentlyLearning: [
-        "Laravel",
-        "Docker",
-        "PostgreSQL",
-        "Git & GitHub",
-        "Software Architecture"
-    ],
-
-    mindset: "Learn → Build → Improve → Repeat 🚀"
-};
+Construir aplicações completas e bem organizadas
+          ↓
+Projetar APIs e modelar bancos de dados
+          ↓
+Aplicar testes e boas práticas de desenvolvimento
+          ↓
+Trabalhar com Git, Docker e integração contínua
+          ↓
+Entregar software útil, confiável e sustentável
 ```
 
 ---
 
-# 🤝 Vamos conversar?
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/">
-<img src="https://img.shields.io/badge/LinkedIn-Gean%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 💬 Vamos construir algo?
 
-<a href="mailto:grochabrito@gmail.com">
-<img src="https://img.shields.io/badge/Email-grochabrito%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Aprender • Construir • Compartilhar • Evoluir**
 
-<a href="https://github.com/geancarlos-brito">
-<img src="https://img.shields.io/badge/GitHub-geancarlos--brito-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/gean-carlos-rocha-brito-a3a421352/"><img src="https://img.shields.io/badge/LinkedIn-Fale_comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:grochabrito@gmail.com"><img src="https://img.shields.io/badge/Email-Me_escreva-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 "Transformando ideias em código, um projeto de cada vez."
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=120&section=footer" alt="" />
 
 </div>
