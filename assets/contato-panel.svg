@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 116" role="img" aria-labelledby="title desc">
+<title id="title">Vamos conversar</title><desc id="desc">Entre em contato por LinkedIn, e-mail ou GitHub.</desc>
+<defs><style>.t{font-family:Inter,-apple-system,'Segoe UI',Arial,sans-serif}.m{font-family:ui-monospace,Consolas,monospace}</style></defs>
+<rect x=".5" y=".5" width="899" height="115" rx="15" fill="#0d1426" stroke="#263852"/>
+<circle cx="57" cy="58" r="27" fill="#102e4a"/><path d="M45 57h24m-8-8 8 8-8 8" fill="none" stroke="#7dd3fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="101" y="49" font-size="20" font-weight="750" fill="#f8fafc">Bora construir algo?</text>
+<text class="t" x="101" y="73" font-size="13" fill="#94a3b8">Aberto a trocar ideias, colaborar e aprender.</text>
+<path d="M590 29v58" stroke="#2a3c5c"/>
+<text class="m" x="622" y="48" font-size="11" letter-spacing="1.4" fill="#7dd3fc">CONECTE-SE</text>
+<text class="t" x="622" y="72" font-size="13" fill="#e2e8f0">LinkedIn  ·  E-mail  ·  GitHub</text>
+</svg>
