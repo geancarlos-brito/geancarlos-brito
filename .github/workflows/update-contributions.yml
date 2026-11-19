@@ -1,6 +1,12 @@
 name: Atualizar gráfico de contribuições
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'scripts/generate_contributions.py'
+      - '.github/workflows/update-contributions.yml'
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
