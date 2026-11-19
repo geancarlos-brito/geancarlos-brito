@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate a GitHub-style contribution heatmap using GitHub's GraphQL API."""
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 import json
@@ -31,7 +31,7 @@ query($login: String!) {
   }
 }
 """
-payload = json.dumps({"query": query, "variables": {"login": USERNAME}}).encode()
+to_date = datetime.now(timezone.utc).replace(microsecond=0)\nfrom_date = to_date - timedelta(days=365)\nvariables = {"login": USERNAME, "from": from_date.isoformat().replace("+00:00", "Z"), "to": to_date.isoformat().replace("+00:00", "Z")}\npayload = json.dumps({"query": query, "variables": variables}).encode()
 request = Request(
     "https://api.github.com/graphql",
     data=payload,
@@ -55,15 +55,15 @@ left, top = 48, 43
 columns = len(weeks)
 width = left + columns * (cell + gap) + 8
 height = 43 + 7 * (cell + gap) + 30
-colors = ["#161b22", "#5c1717", "#922626", "#d43b3b", "#ff5a4e"]
+colors = ["#161b22", "#102a4c", "#174a7e", "#1d6fb8", "#38bdf8"]
 
 parts = [
     f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
     '<title id="title">Atividade de Gean Carlos no GitHub</title>',
     f'<desc id="desc">{total} contribuições no último ano, atualizado automaticamente.</desc>',
     '<rect width="100%" height="100%" rx="12" fill="#0d1117"/>',
-    '<text x="16" y="23" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Contribuições no último ano</text>',
-    f'<text x="{width-16}" y="23" text-anchor="end" fill="#ff6b61" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">{total:,} contribuições</text>',
+    '<text x="16" y="23" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Contribuições nos últimos 365 dias</text>',
+    f'<text x="{width-16}" y="23" text-anchor="end" fill="#38bdf8" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">{total:,} contribuições</text>',
 ]
 for label, day in [("Seg", 1), ("Qua", 3), ("Sex", 5)]:
     y = top + day * (cell + gap) + 9
