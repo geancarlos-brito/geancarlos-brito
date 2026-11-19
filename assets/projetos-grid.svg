@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+<title id="title">Projetos em destaque</title><desc id="desc">UniWay, SkillSwap e Task.fy, três projetos de desenvolvimento full stack.</desc>
+<defs><style>
+.t{font-family:Inter,-apple-system,'Segoe UI',Arial,sans-serif}.m{font-family:ui-monospace,Consolas,monospace}
+.name{font-size:24px;font-weight:750;fill:#f8fafc}.desc{font-size:13px;fill:#a8b7cc}.tag{font-size:11px;fill:#bfdbfe}.eyebrow{font-size:10px;letter-spacing:1.8px}
+.card{fill:#101b32;stroke:#2a3c5c}.line{stroke:#2a3c5c}
+</style></defs>
+<rect width="900" height="420" rx="18" fill="#0b1222" stroke="#263852"/>
+<g transform="translate(20 20)">
+<rect class="card" width="420" height="180" rx="13"/><rect x="0" y="0" width="420" height="4" rx="2" fill="#38bdf8"/>
+<circle cx="32" cy="34" r="15" fill="#102f4c"/><path d="M32 23c-6 0-9 5-9 11 0 10 9 20 9 20s9-10 9-20c0-6-3-11-9-11z" fill="none" stroke="#7dd3fc" stroke-width="1.8"/><circle cx="32" cy="34" r="3.5" fill="none" stroke="#7dd3fc" stroke-width="1.8"/>
+<text class="m eyebrow" x="60" y="38" fill="#7dd3fc">01 · TRANSPORTE UNIVERSITÁRIO</text><text class="t name" x="24" y="86">UniWay</text>
+<text class="t desc" x="24" y="112">Gestão de universidades, motoristas, rotas</text><text class="t desc" x="24" y="131">e reservas de transporte universitário.</text>
+<g transform="translate(24 150)"><rect width="74" height="20" rx="6" fill="#183653"/><text class="m tag" x="11" y="14">Vue.js</text><rect x="82" width="82" height="20" rx="6" fill="#183653"/><text class="m tag" x="91" y="14">FastAPI</text><rect x="172" width="110" height="20" rx="6" fill="#183653"/><text class="m tag" x="181" y="14">PostgreSQL</text><rect x="290" width="78" height="20" rx="6" fill="#183653"/><text class="m tag" x="300" y="14">Docker</text></g>
+</g>
+<g transform="translate(460 20)">
+<rect class="card" width="420" height="180" rx="13"/><rect width="420" height="4" rx="2" fill="#a78bfa"/>
+<circle cx="34" cy="34" r="15" fill="#2b2150"/><path d="M25 34h18m-6-6 6 6-6 6M43 49H25m6-6-6 6 6 6" fill="none" stroke="#c4b5fd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="m eyebrow" x="60" y="38" fill="#c4b5fd">02 · APRENDIZADO COLABORATIVO</text><text class="t name" x="24" y="86">SkillSwap</text>
+<text class="t desc" x="24" y="112">Uma plataforma para conectar pessoas que</text><text class="t desc" x="24" y="131">querem ensinar e aprender habilidades.</text>
+<g transform="translate(24 150)"><rect width="68" height="20" rx="6" fill="#302653"/><text class="m tag" x="10" y="14">Nuxt</text><rect x="76" width="72" height="20" rx="6" fill="#302653"/><text class="m tag" x="86" y="14">Vue</text><rect x="156" width="90" height="20" rx="6" fill="#302653"/><text class="m tag" x="166" y="14">Laravel</text><rect x="254" width="110" height="20" rx="6" fill="#302653"/><text class="m tag" x="264" y="14">PostgreSQL</text></g>
+</g>
+<g transform="translate(20 220)">
+<rect class="card" width="420" height="180" rx="13"/><rect width="420" height="4" rx="2" fill="#34d399"/>
+<circle cx="34" cy="34" r="15" fill="#12382f"/><rect x="25" y="23" width="18" height="22" rx="3" fill="none" stroke="#6ee7b7" stroke-width="1.8"/><path d="m28 30 3 3 5-6m-8 12h10" fill="none" stroke="#6ee7b7" stroke-width="1.7" stroke-linecap="round"/>
+<text class="m eyebrow" x="60" y="38" fill="#6ee7b7">03 · PRODUTIVIDADE</text><text class="t name" x="24" y="86">Task.fy</text>
+<text class="t desc" x="24" y="112">Gerenciador de tarefas com foco em</text><text class="t desc" x="24" y="131">organização, auditoria e boas práticas.</text>
+<g transform="translate(24 150)"><rect width="62" height="20" rx="6" fill="#174238"/><text class="m tag" x="10" y="14">PHP</text><rect x="70" width="92" height="20" rx="6" fill="#174238"/><text class="m tag" x="80" y="14">Laravel</text><rect x="170" width="78" height="20" rx="6" fill="#174238"/><text class="m tag" x="180" y="14">MySQL</text></g>
+</g>
+<g transform="translate(460 220)">
+<rect class="card" width="420" height="180" rx="13" stroke-dasharray="5 5"/><text class="m eyebrow" x="24" y="38" fill="#7dd3fc">04 · PRÓXIMO CAPÍTULO</text>
+<path d="M34 66v44m-22-22h44" stroke="#385273" stroke-width="2" stroke-linecap="round"/><circle cx="34" cy="88" r="27" fill="none" stroke="#385273" stroke-width="1.5"/>
+<text class="t" x="76" y="83" font-size="19" font-weight="700" fill="#e2e8f0">Sempre construindo</text><text class="t desc" x="76" y="108">Novas ideias, aprendizados e projetos</text><text class="t desc" x="76" y="128">em evolução.</text>
+<text class="m" x="24" y="164" font-size="11" fill="#7dd3fc">CURIOSIDADE · PRÁTICA · EVOLUÇÃO</text>
+</g></svg>
