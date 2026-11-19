@@ -27,31 +27,27 @@
 </p>
 
 <p align="center">
-  <sub>Projetos selecionados — acesse os cards para conhecer o código e a documentação.</sub>
+  <sub>Projetos selecionados — clique nos cards para ver o código e a documentação. <a href="https://github.com/geancarlos-brito?tab=repositories">Ver todos os repositórios →</a></sub>
 </p>
 
 ## <img src="assets/sec-stack.svg" width="100%" alt="02 — Stack e ferramentas"/>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Tecnologias agrupadas por área"/>
+  <img src="assets/stack.svg" width="100%" alt="Tecnologias agrupadas por área: backend, frontend, dados e ferramentas"/>
 </p>
 
-## 🧭 Atualmente estudando
+## <img src="assets/sec-estudando.svg" width="100%" alt="03 — Atualmente estudando"/>
 
-- Arquitetura de software, organização de projetos e boas práticas.
-- Desenvolvimento de APIs REST e integração entre aplicações.
-- Modelagem de dados, PostgreSQL e persistência.
-- Testes automatizados, Git, GitHub e Docker.
+- **Arquitetura de software** — organização de projetos e boas práticas
+- **APIs REST** — desenvolvimento e integração entre aplicações
+- **Dados** — modelagem, PostgreSQL e persistência
+- **Qualidade e entrega** — testes automatizados, Git, GitHub e Docker
 
-## <img src="assets/sec-atividade.svg" width="100%" alt="03 — Atividade no GitHub"/>
-
-<p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
-  <img height="170" src="https://raw.githubusercontent.com/geancarlos-brito/geancarlos-brito/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas"/>
-</p>
+## <img src="assets/sec-atividade.svg" width="100%" alt="04 — Atividade no GitHub"/>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=geancarlos-brito&bg_color=0d1426&color=94a3b8&line=38bdf8&point=8b5cf6&area=true&hide_border=true" alt="Gráfico de atividade no GitHub"/>
+  <img height="170" src="profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub"/>
+  <img height="170" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens mais utilizadas"/>
 </p>
 
 <p align="center">
@@ -62,7 +58,11 @@
   </picture>
 </p>
 
-## <img src="assets/sec-contato.svg" width="100%" alt="04 — Contato"/>
+<p align="center">
+  <sub>Gráfico de contribuições atualizado automaticamente todos os dias.</sub>
+</p>
+
+## <img src="assets/sec-contato.svg" width="100%" alt="05 — Contato"/>
 
 <p align="center">
   <strong>Vamos trocar ideias e construir coisas legais.</strong><br/>
