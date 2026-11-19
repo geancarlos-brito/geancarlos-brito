@@ -65,7 +65,7 @@ parts = [
     '<text x="16" y="23" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Contribuições nos últimos 365 dias</text>',
     f'<text x="{width-16}" y="23" text-anchor="end" fill="#38bdf8" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">{total:,} contribuições</text>',
 ]
-for label, day in [("Seg", 1), ("Qua", 3), ("Sex", 5)]:
+for label, day in [("Seg", 0), ("Qua", 2), ("Sex", 4)]:
     y = top + day * (cell + gap) + 9
     parts.append(f'<text x="12" y="{y}" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="9">{label}</text>')
 
@@ -79,7 +79,7 @@ for col, week in enumerate(weeks):
         parts.append(f'<text x="{x}" y="37" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="10">{month}</text>')
         previous_month = first.month
     for item in days:
-        weekday = item["weekday"]
+        weekday = (item["weekday"] + 6) % 7  # GitHub API: Sunday=0; display Monday first
         count = item["contributionCount"]
         level = 0 if count == 0 else 1 if count < 3 else 2 if count < 6 else 3 if count < 10 else 4
         x = left + col * (cell + gap)
